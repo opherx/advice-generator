@@ -12,11 +12,11 @@
 
 - ##### Desktop-preview  
 
-  - ![desktop-preview](/image/screenshot-1.png)
+  - ![desktop-preview](image/screenshot-1.png)
 
 - ##### Mobile-preview    
 
-  - ![desktop-preview](/image/screenshot-2.png)
+  - ![desktop-preview](image/screenshot-2.png)
 
 ### Built with 🧰
 
