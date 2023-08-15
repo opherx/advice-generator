@@ -1,6 +1,6 @@
 # ADVICE GENERATOR 🗣  
 
-###  🌐 [ADVICE GENERATOR](opherx.github.io/Blogr)  
+###  🌐 [ADVICE GENERATOR](https://opherx.github.io/advice-generator/)  
 
 #### Overview 🔍  
 
